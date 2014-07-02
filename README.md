@@ -3,3 +3,7 @@
 
 Spring example - before - uncomment a Spring configuration in the web.xml
 http://localhost:8080/SpringTemplateExample/rest/sample/daniels
+
+
+http://localhost:8080/SpringTemplateExample/index.jsp
+http://localhost:8080/SpringTemplateExample/welcome
